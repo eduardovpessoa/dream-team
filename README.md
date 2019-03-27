@@ -2,15 +2,15 @@
 My "Dream Team" of friends and I.T. workers that I really want to work together!
 
 ## Data Science ##
-- Edson G. Correia (Skills: Python/R)
-
-## Engineering / Hardware / IoT ##
-- Eduardo A. Magalhães (Skills: HE CAN DO EVERYTHING YOU WANT!)
+- Edson G. Correia (Python/R)
 
 ## Development ##
-- Alan C. Echer (Skills: Android, Java, FullStack Development, "The monster of coding!")
-- Euler M. Júnior (Skills: FrontEnd Development, Web Development)
-- Enzo M. Nagata (Skills: FrontEnd Development, Web Development, Designer)
-- Fagner Granella (Skills: Java, Kotlin, FullStack Development, Oracle, Linux, WebServices, "HE IS THE SURPASSING!")
-- Matheus Daruiz (Skills: C#, .NET Plataform/Core, Python, Web Development, TDD)
-- Vinícius S. Sanchez (Skills: Delphi, Web Development, Very Determinated, Team Leadership)
+- Alan C. Echer (Android, Java, FullStack Development, "The monster of coding!")
+- Euler M. Júnior (FrontEnd Development, Web Development)
+- Enzo M. Nagata (FrontEnd Development, Web Development, Designer)
+- Fagner Granella (Java, Kotlin, FullStack Development, Oracle, Linux, WebServices, "HE IS THE SURPASSING!")
+- Matheus Daruiz (C#, .NET Plataform/Core, Python, Web Development, TDD)
+- Vinícius S. Sanchez (Delphi, Web Development, Very Determinated, Team Leadership)
+
+## Engineering / Hardware / IoT ##
+- Eduardo A. Magalhães (HE CAN DO EVERYTHING YOU WANT!)
