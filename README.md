@@ -4,7 +4,7 @@ My "Dream Team" of friends and I.T. workers that I really want to work together!
 ## Data Science ##
 - Edson G. Correia <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
   - Languages: Python, R.
-  - Skills: Business Intelligence, Data Analytics, Data Mining, Web Scrapping.
+  - Skills: Business Intelligence, Data Analytics, Web Scrapping, Machine Learn, A.I.
 
 ## Development ##
 - Airton Zanon <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/> - <img src="https://image.flaticon.com/icons/svg/197/197441.svg" width="12"/> 
