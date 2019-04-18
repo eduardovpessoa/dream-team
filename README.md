@@ -12,34 +12,30 @@ My "Dream Team" of friends and I.T. workers that I really want to work together!
   - Skills: FullStack Development.
   
 - Alan C. Echer <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
-  - Languages: Java. 
-  - Skills: 
+  - Languages: Java, JS and TOTVS Technologies. 
+  - Skills: FullStack Development, Mobile Development.
   
 - Euler M. Júnior <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/> - <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="12"/>
   - Languages: JS Technologies, PHP.
-  - Skills: 
+  - Skills: FullStack Development.
   
 - Enzo M. Nagata <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
   - Languages: JS Technologies, PHP.
-  - Skills: 
+  - Skills: FullStack Development, Web Design.
   
 - Fagner Granella <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
   - Languages: Java, Kotlin, JS Technologies.
-  - Skills: 
+  - Skills: FullStack Development, Mobile Development, System Analytics, Databases and Servers management.
   
 - Matheus Daruiz <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
   - Languages: C#, Python.
-  - Skills: 
-  
-- Vinícius S. Sanchez <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
-  - Languages: Delphi.
-  - Skills: 
+  - Skills: Desktop and FullStack Development.
 
 ## Engineering / Hardware / IoT ##
 - André Angelucci <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
   - Languages: Delphi, Python. 
-  - Skills: 
+  - Skills: Desktop Development, Bots, IoT.
   
 - Eduardo A. Magalhães <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
-  - Languages:
-  - Skills: 
+  - Languages: C, C++, Assembly, Low Level Languages in General. 
+  - Skills: HE CAN BUILD EVERYTHING YOU WANT!
