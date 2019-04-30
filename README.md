@@ -43,4 +43,4 @@ My "Dream Team" of friends and I.T. workers that I really want to work together!
   ## Marketing / Public Relations ##
 - Dener O. Bolonha <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="12"/>
   - Languages: HTML, CSS, Javascript, PHP.
-  - Skills: Advisory, Content Manager, Marketing and Strong Communications Skills.
+  - Skills: Advisory, Content Management, Marketing and Strong Communications Skills.
